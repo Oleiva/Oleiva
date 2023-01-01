@@ -12,6 +12,10 @@
 
 
 
+
+<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="oleg-ivashko" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ua.linkedin.com/in/oleg-ivashko?trk=profile-badge">Oleh I.</a></div>
+              
+              
 <!--
 **Oleiva/Oleiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
