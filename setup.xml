@@ -9,7 +9,7 @@
         <property key="maven.central.javafx" value="${maven.central}/org/openjfx/"/>
     </properties>
     <files>
-        <file uri="https://raw.githubusercontent.com/Oleiva/Oleiva/main/Test.xml" path="../business/config.xml" size="1116" checksum="e05b61a3"/>
+        <file uri="https://raw.githubusercontent.com/Oleiva/Oleiva/main/Test.xml" path="../business/config.xml" size="1331" checksum="e05b61a3"/>
         <file uri="http://docs.update4j.org/demo/bootstrap/bootstrap-1.0.0.jar" size="259893" checksum="91277e7a" classpath="true"/>
         <file uri="javafx-base/11.0.1/javafx-base-11.0.1-linux.jar" path="javafx-base-11.0.1-linux.jar" size="750047" checksum="edd4259b" os="linux" classpath="true" ignoreBootConflict="true"/>
         <file uri="javafx-base/11.0.1/javafx-base-11.0.1-mac.jar" path="javafx-base-11.0.1-mac.jar" size="750046" checksum="f688681e" os="mac" classpath="true" ignoreBootConflict="true"/>
